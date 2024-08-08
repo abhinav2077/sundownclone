@@ -871,6 +871,7 @@ html, body{
         font-weight: 100;
         color: rgba(0, 0, 0, 0.667);
         display: flex;
+        margin-top: 50px;
         padding-left: 2vw;
     }
     #page3-text h3{
